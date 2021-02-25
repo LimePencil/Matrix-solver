@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>console</headerType>
-  <jar>C:\Users\jaeyo\Desktop\all stuff\Coding\Java\Matrix solver\MatrixSolver.jar</jar>
+  <jar>C:\Users\jaeyo\Desktop\all stuff\Coding\Java\Matrix solver\Matrix solver.jar</jar>
   <outfile>C:\Users\jaeyo\Desktop\all stuff\Coding\Java\Matrix solver\matrixSolver.exe</outfile>
   <errTitle>Please download newsest version of java</errTitle>
   <cmdLine></cmdLine>
