@@ -24,6 +24,8 @@ public class MainApp{
         
         Matrix mat1 = new Matrix(targetMatrix);
         mat1.solveMatrix();
+        System.out.println("Done");
+        askDouble();
     }
     public static double askDouble(){
         System.out.print("> ");
